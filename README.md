@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">
-    Un mec qui a découvert le code d'un jour à l'autre
-</h3>
+### Salut toi
 
-<div align="left">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="My Profile Views">
-        <img src="https://komarev.com/ghpvc/?username=iwakilekiwi&style=flat-square" alt="Profile Views">
-    </a>
-</div>
+[![Iwaki' Followers](https://img.shields.io/github/followers/iwakilekiwi?color=brightgreen&label=Followers)](https://github.com/iwakilekiwi?tab=followers)
+[![Iwaki' Profile Views](https://komarev.com/ghpvc/?username=iwakilekiwi&color=brightgreen)](https://github.com/iwakilekiwi)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uifadj4kp0qds4k0wnz7hf5z2&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=uifadj4kp0qds4k0wnz7hf5z2&redirect=true)
