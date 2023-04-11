@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">
+    Un mec qui a découvert le code d'un jours à l'autre
+</h3>
+
 <div align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="My Profile Views">
-        <img src="https://komarev.com/ghpvc/?username=alwyn974&style=for-the-badge" alt="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=iwakilekiwistyle=flat-square" alt="Profile Views">
     </a>
 </div>
