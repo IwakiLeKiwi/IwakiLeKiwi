@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="My Profile Views">
-        <img src="https://komarev.com/ghpvc/?username=iwakilekiwistyle=flat-square" alt="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=iwakilekiwi&style=flat-square" alt="Profile Views">
     </a>
 </div>
