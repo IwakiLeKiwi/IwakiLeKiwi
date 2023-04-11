@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 [![Iwaki' Followers](https://img.shields.io/github/followers/iwakilekiwi?color=brightgreen&label=Followers)](https://github.com/iwakilekiwi?tab=followers)
 [![Iwaki' Profile Views](https://komarev.com/ghpvc/?username=iwakilekiwi&color=brightgreen)](https://github.com/iwakilekiwi)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=	312vumjunxfclcygvl5srhi6iyii&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=	312vumjunxfclcygvl5srhi6iyii&redirect=true)
