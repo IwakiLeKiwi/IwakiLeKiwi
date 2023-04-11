@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-    Un mec qui a découvert le code d'un jours à l'autre
+    Un mec qui a découvert le code d'un jour à l'autre
 </h3>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="My Profile Views">
         <img src="https://komarev.com/ghpvc/?username=iwakilekiwi&style=flat-square" alt="Profile Views">
     </a>
