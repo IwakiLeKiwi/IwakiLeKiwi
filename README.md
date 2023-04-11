@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**iwakilekiwi/iwakilekiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alwyn974/alwyn974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="My Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=alwyn974&style=for-the-badge" alt="Profile Views">
+    </a>
+</div>
