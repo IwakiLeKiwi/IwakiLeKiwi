@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![Iwaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwakilekiwi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Iwaki' Followers](https://img.shields.io/github/followers/iwakilekiwi?color=brightgreen&label=Followers)](https://github.com/iwakilekiwi?tab=followers)
-[![Iwaki' Profile Views](https://komarev.com/ghpvc/?username=iwakilekiwi&color=brightgreen)](https://github.com/iwakilekiwi)
+[![Iwaki' Profile Views](https://komarev.com/ghpvc/?username=iwakilekiwi&color=brightblue)](https://github.com/iwakilekiwi)
