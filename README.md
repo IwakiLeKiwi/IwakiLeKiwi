@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Salut toi
+## Hi, I'm Iwaki
+
+- 🖥️ I’m currently working on [Kanawa](https://github.com/IwakiLeKiwi/Kanawa-Launcher)
+
+### 🧠 I’m currently learning ...
 
 [![Iwaki' Followers](https://img.shields.io/github/followers/iwakilekiwi?color=brightgreen&label=Followers)](https://github.com/iwakilekiwi?tab=followers)
 [![Iwaki' Profile Views](https://komarev.com/ghpvc/?username=iwakilekiwi&color=brightgreen)](https://github.com/iwakilekiwi)
