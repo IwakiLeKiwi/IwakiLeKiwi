@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 - 🖥️ I’m currently working on [Kanawa](https://github.com/IwakiLeKiwi/Kanawa-Launcher)
 
-### 🧠 I’m currently learning
+## 🧠 I’m currently learning
 - Java (The best)
 - Js
 - C#
 
-### Stats
+## Stats
 
 [![Iwaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwakilekiwi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
