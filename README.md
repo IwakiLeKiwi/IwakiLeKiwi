@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 ## Stats
 
-https://github-readme-stats.vercel.app/api?username=iwakilekiwi&show_icons=true&theme=tokyonight)
+[!Iwaki's Github stats[https://github-readme-stats.vercel.app/api?username=iwakilekiwi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 (https://github-readme-stats.vercel.app/api/top-langs/?username=IwakiLeKiwi&hide=rich%20text%20format&theme=radical)]
 
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
