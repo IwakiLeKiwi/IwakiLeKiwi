@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Java (The best)
 - C
 
-## Stats
+## 📈 GitHub Stats
 
 [![Iwaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=IwakiLeKiwi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Iwaki's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IwakiLeKiwi&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
