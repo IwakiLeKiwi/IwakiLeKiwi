@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 
 [![Iwaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=IwakiLeKiwi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Iwaki's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IwakiLeKiwi&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![spotify-github-profile](https://accounts.spotify.com/authorize?client_id=bfe7d0efc2274a29ab5765322f13d9bd&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/)
