@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Iwaki
 
 - 🇫🇷 I'm a french guy
-- 🖥️ I’m currently working on [Kanawa](https://github.com/IwakiLeKiwi/Kanawa-Launcher)
+- 🖥️ I’m currently working on [Kanawa](https://kanawa.fr/)
 
 ## 🧠 I’m currently learning
 - Java (The best)
