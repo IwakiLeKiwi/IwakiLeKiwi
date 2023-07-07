@@ -2,7 +2,7 @@
 ## 👋 Présentations
 Salut, je suis Iwaki.
 
-> Actuellement entrain de travailler sur [Kanawa](https://kanawa.fr)
+**Actuellement entrain de travailler sur [Kanawa](https://kanawa.fr)**
 
 ## 📁 Projets publiques
 
