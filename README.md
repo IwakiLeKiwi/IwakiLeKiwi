@@ -1,28 +1,26 @@
-<!--
-**IwakiLeKiwi/IwakiLeKiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div align="center">Iwaki - Un développeur pas comme les autres</div>
+## 👋 Présentations
+Salut, je suis Iwaki.
 
-Here are some ideas to get you started:
+> Actuellement entrain de travailler sur [Kanawa](https://kanawa.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projets publiques
 
-## Hi, I'm Iwaki
+- [Kyumis](https://github.com/iwakilekiwi/kyumis)
+- [Iwalib](https://github.com/iwakilekiwi/iwalib)
 
-- 🇫🇷 I'm a french guy
-- 🖥️ I’m currently working on [Kanawa](https://kanawa.fr/)
+## ✨ Compétences
 
-## 🧠 I’m currently learning
-- Java (The best)
-- C
+<p align="center">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C++" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ Idea" height="50" width="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" width="50"/>
+</p>
 
-## 📈 GitHub Stats
+## 📊 Statistiques
 
-[![Iwaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=IwakiLeKiwi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Iwaki's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IwakiLeKiwi&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=iwakilekiwi&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iwakilekiwi&theme=tokyonight&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwakilekiwi&theme=tokyonight&hide_border=true" width="400"/>
