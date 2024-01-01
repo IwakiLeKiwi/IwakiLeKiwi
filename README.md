@@ -18,29 +18,50 @@
 ### Acquis
 
 <p align="left">
-<img align="center" src="./resources/java-original.png" alt="Java" height="50" width="50"/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+</p>
+
+### Partiellement acquis
+
+<p align="left">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 </p>
 
 ### En apprentissage
 
 <p align="left">
-<img align="center" src="./resources/c-original.png" alt="C" height="50" width="50"/>
-<img align="center" src="./resources/cpp-original.png" alt="C++" height="50" width="44"/>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 </p>
 
 ### Veux apprendre
 
 <p align="left">
-<img align="center" src="./resources/rust-original.png" alt="Python" height="50" width="50"/>
-<img align="center" src="./resources/python-original.png" alt="Python" height="50" width="50"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 </p>
 
 ### Outils préférés
 
 <p align="left">
-<img align="center" src="./resources/vscode-original.png" alt="Visual Studio Code" height="50" width="50"/>
-<img align="center" src="./resources/intellij-original.png" alt="IntelliJ Idea" height="50" width="50"/>
-<img align="center" src="./resources/clion-original.png" alt="IntelliJ Idea" height="50" width="50"/>
+
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-75AADB.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-%2357A143?style=for-the-badge&logo=clion&logoColor=white)
+</p>
+
+### Utilisations
+
+<p align="left">
+
+![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![GIt](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </p>
 
 <div align="center">
@@ -50,5 +71,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/xiwaki)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IwakiLeKiwi)
 
-</div>
+<br>
 
+![Made_With](https://img.shields.io/badge/Built%20with-❤️-F84D7C?style=for-the-badge)
+![Iwaki](https://img.shields.io/badge/Made%20by-Iwaki-red?style=for-the-badge&logo=Github)
+</div>
