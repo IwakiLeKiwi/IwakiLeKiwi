@@ -11,7 +11,7 @@
 - 🌸 <b>Actuellement entrain de travailler sur <a href="https://kanawa.fr">Kanawa</a></b>
 - ♨️ Développeur ***Java***
 - 🧠 En train d'apprendre ***C***, ***C++***
-- 🧩 Veux apprendre ***Python***, ***Rust***
+- 🧩 Veux apprendre ***Python***, ***Rust***, ***JavaScript***
 
 ## ✨ Compétences & 🔧 Outils
 
