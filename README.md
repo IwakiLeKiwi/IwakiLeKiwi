@@ -1,4 +1,4 @@
-
+<!-- PERSONAL -->
 <div align="center">
     <h1> Iwaki - Un developpeur pas comme les autres </h1>
 </div>
