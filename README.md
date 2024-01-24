@@ -71,8 +71,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/xiwaki)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IwakiLeKiwi)
 
-<br>
-
 ![Made_With](https://img.shields.io/badge/Built%20with-❤️-F84D7C?style=for-the-badge)
 ![Iwaki](https://img.shields.io/badge/Made%20by-Iwaki-red?style=for-the-badge&logo=Github)
 </div>
