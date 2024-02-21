@@ -7,7 +7,7 @@
 
 - 🇫🇷 Français
 - 🖥️ Passionné de développement informatique
-- 🐲 J'aime les dragons
+- 🍜 Anime lover
 - 🌸 <b>Actuellement entrain de travailler sur <a href="https://kanawa.fr">Kanawa</a></b>
 - ♨️ Développeur ***Java***
 - 🧠 En train d'apprendre ***C***, ***C++***
