@@ -3,13 +3,17 @@
 *𝙷𝚒𝚐𝚑 𝚜𝚌𝚑𝚘𝚘𝚕 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝* ***𝙹𝚎𝚊𝚗 𝙼𝚘𝚞𝚕𝚒𝚗*** <br>
 ***𝙲𝚢𝚋𝚎𝚛 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢*** *𝚎𝚡𝚙𝚎𝚛𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝*
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-  <div>
-    <img src="https://img.shields.io/badge/Discord-iwaki__-blue?style=for-the-badge&logo=discord" />
-    <img src="https://img.shields.io/github/followers/iwakilekiwi?style=for-the-badge&logo=github&color=white" /><br>
-    <img src="https://img.shields.io/badge/Anime%20Lover-blue?style=for-the-badge&logo=crunchyroll&color=gray" />
-    <img src="https://img.shields.io/badge/Spotify-Iwaki-darkgreen?style=for-the-badge&logo=spotify" />
+  <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+    <div>
+      <img src="https://img.shields.io/badge/Discord-iwaki__-blue?style=for-the-badge&logo=discord" />
+      <img src="https://img.shields.io/github/followers/iwakilekiwi?style=for-the-badge&logo=github&color=white" />
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/Anime%20Lover-blue?style=for-the-badge&logo=crunchyroll&color=gray" />
+      <img src="https://img.shields.io/badge/Spotify-Iwaki-darkgreen?style=for-the-badge&logo=spotify" />
+    </div>
   </div>
 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312vumjunxfclcygvl5srhi6iyii&redirect=true">
@@ -17,6 +21,7 @@
   </a>
 
 </div>
+
 
 
 ### <img src="./resources/feather.gif" width="50"> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎  𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎...
