@@ -5,13 +5,13 @@
 
 <table>
   <tr>
-    <td>
+    <td style="border: none;>
       <img src="https://img.shields.io/badge/Discord-iwaki__-blue?style=for-the-badge&logo=discord" />
       <img src="https://img.shields.io/github/followers/iwakilekiwi?style=for-the-badge&logo=github&color=white" /><br>
       <img src="https://img.shields.io/badge/Anime%20Lover-blue?style=for-the-badge&logo=crunchyroll&color=gray" />
       <img src="https://img.shields.io/badge/Spotify-Iwaki-darkgreen?style=for-the-badge&logo=spotify" />
     </td>
-    <td>
+    <td style="border: none;>
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312vumjunxfclcygvl5srhi6iyii&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312vumjunxfclcygvl5srhi6iyii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
       </a>
