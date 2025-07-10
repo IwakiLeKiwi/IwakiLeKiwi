@@ -20,7 +20,7 @@
     </tr>
   </table>
 
-  <h2>My Skills</h2>
+  <br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,rust">
 </div>
 
