@@ -21,7 +21,7 @@
   </table>
 
   <br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,rust">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,rust,python">
 </div>
 
 ### <img src="./resources/feather.gif" width="50"> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎  𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎...
@@ -29,12 +29,13 @@
 ```ts
 const iwaki = {
   pronouns: "he" | "him",
-  code: ["Java", "C", "C++", "Rust"],
-  tools: ["IntelliJ IDEA", "VSCode", "Tauri", "CMake"],
+  code: ["Java", "C", "C++", "Rust", "Python"],
+  tools: ["IntelliJ IDEA", "VSCode", "Cargo", "CMake"],
   architecture: ["low-level", "cross-platform", "modular design"],
   projects: {
-    library: "Minimal UI library in C",
-    consoleApp: "SSH connection and simplified docker commands",
+    rll: "Download and launch minecraft in Rust",
+    leif: "Minimal UI library in C",
+    aria: "SSH connection and simplified docker commands",
     school: "Epistemology & computer science student"
   },
   interests: ["Anime", "Philosophy", "Game dev", "UI/UX design"],
