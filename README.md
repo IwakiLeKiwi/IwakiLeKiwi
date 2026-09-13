@@ -7,19 +7,16 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Discord-iwaki__-blue?style=for-the-badge&logo=discord" />
-        <br/>
-        <img src="https://img.shields.io/github/followers/iwakilekiwi?style=for-the-badge&logo=github&color=white" /> <br />
+        <img src="https://img.shields.io/badge/Discord-iwaki__-blue?style=for-the-badge&logo=discord" /> <br/>
+        <img src="https://img.shields.io/github/followers/iwakilekiwi?style=for-the-badge&logo=github&color=white" /> <br/>
         <img src="https://img.shields.io/badge/Anime%20Lover-blue?style=for-the-badge&logo=crunchyroll&color=gray" />
         <a href="https://anilist.co/user/Iwaki/">
         <img src="https://img.shields.io/badge/Iwaki-gray?style=for-the-badge&logo=anilist
-        "></a>
-        <br/>
+        "></a> <br/>
         <a href="https://open.spotify.com/user/31k6rxzyncflvurxps2w2vqgmggm">
         <img src="https://img.shields.io/badge/Spotify-Iwaki-darkgreen?style=for-the-badge&logo=spotify"/>
-        </a>
-        <br/>
-        <a href="https://steamcommunity.com/id/iwaki_"><img src="https://img.shields.io/badge/Steam-Iwaki_-000?style=for-the-badge&logo=steam&logoColor=white">
+        </a> <br/>
+        <a href="https://steamcommunity.com/id/iwaki_"><img src="https://img.shields.io/badge/Steam-Iwaki__-000?style=for-the-badge&logo=steam&logoColor=white">
         </a>
       </td>
       <td>
