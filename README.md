@@ -10,9 +10,12 @@
         <img src="https://img.shields.io/badge/Discord-iwaki__-blue?style=for-the-badge&logo=discord" /> <br/>
         <img src="https://img.shields.io/github/followers/iwakilekiwi?style=for-the-badge&logo=github&color=white" /> <br/>
         <img src="https://img.shields.io/badge/Anime%20Lover-blue?style=for-the-badge&logo=crunchyroll&color=gray" />
-        <a href="https://anilist.co/user/Iwaki/"> <br/>
-        <img src="https://img.shields.io/badge/Iwaki-gray?style=for-the-badge&logo=anilist
-        "></a> <br/>
+        <a href="https://anilist.co/user/Iwaki/" target="_blank"    rel="noopener noreferrer">
+         <img
+        src="https://img.shields.io/badge/Iwaki-gray?style=for-the-badge&logo=anilist"
+        alt="AniList - Iwaki"
+          >
+        </a>
         <a href="https://open.spotify.com/user/31k6rxzyncflvurxps2w2vqgmggm">
         <img src="https://img.shields.io/badge/Spotify-Iwaki-darkgreen?style=for-the-badge&logo=spotify"/>
         </a> <br/>
